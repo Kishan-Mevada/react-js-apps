@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "The Future of AI",
+      "body": "Artificial Intelligence is evolving rapidly, changing how we work, communicate, and solve problems. The future holds endless possibilities.",
+      "author": "Alex Rivera"
+    },
+    {
+      "id": "2",
+      "title": "Morning Rituals for Success",
+      "body": "Start your day with intention. Meditate, plan, hydrate, and move. Small daily habits compound into major life changes over time.",
+      "author": "Jamie Lin"
+    },
+    {
+      "id": "3",
+      "title": "Travel Tips for Solo Explorers",
+      "body": "Pack light, stay aware, and embrace the unknown. Solo travel is about discovering not just new places, but new parts of yourself.",
+      "author": "Morgan Leigh"
+    },
+    {
+      "id": "4",
+      "title": "Why You Should Read Daily",
+      "body": "Reading expands your mind, vocabulary, and empathy. Just 15 minutes a day can transform your knowledge and mental health.",
+      "author": "Samir Patel"
+    },
+    {
+      "id": "b011",
+      "title": "The Power of Morning Routines",
+      "body": "A consistent morning routine boosts focus, energy, and mood. Just 20 minutes of mindful habits daily can transform your productivity and well-being. Start your day with purpose!",
+      "author": "Kishan"
+    }
+  ]
+}
